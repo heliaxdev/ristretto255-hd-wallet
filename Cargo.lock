@@ -136,7 +136,7 @@ dependencies = [
 
 [[package]]
 name = "ristretto255-hd-wallet"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "blake3",
  "curve25519-dalek",
